@@ -1,1 +1,1 @@
-testAccount : test12345@
+from cryptography.fernet import Fernet
